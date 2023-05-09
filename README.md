@@ -11,7 +11,7 @@ And an interactive environment finally has been built that enables the user to c
   - Pandas
 
 ## Statistics Computed
-You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
+As part of the project, I acquired knowledge on bike share usage in Chicago, New York City, and Washington by performing computations on various descriptive statistics. Specifically, I developed code to generate the following information:
 
 ## 1 Popular times of travel (i.e., occurs most often in the start time)
 
